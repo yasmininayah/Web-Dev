@@ -6,3 +6,6 @@ Coba Pake Web Dev
 - membuat web usaha
  ^ kayaknya web design deh
 - coba buat branch
+ ^ coba fiyur 1
+ ^ coba fitur 2
+- branch udah bisa tapi agak beda sama youtube
