@@ -4,5 +4,5 @@ Coba Pake Web Dev
 - baca baca referensi
 - bercita cita jadi web developer
 - membuat web usaha
+ ^ kayaknya web design deh
 - coba buat branch
-- branch udah bisa tapi agak beda sama youtube
