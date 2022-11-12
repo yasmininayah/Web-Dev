@@ -5,4 +5,6 @@ Coba Pake Web Dev
 - bercita cita jadi web developer
 - membuat web usaha
 - coba buat branch
+ ^ coba fiyur 1
+ ^ coba fitur 2
 - branch udah bisa tapi agak beda sama youtube
